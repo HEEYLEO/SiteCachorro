@@ -5,8 +5,18 @@ body {
     background-size: cover;
     background-attachment: scroll;
   }
-header{margin: 0px 0px 15px 0px; background-color: #957bbe; height: 60px; padding: 5px;}
-main{background-color: palevioletred; padding: 10px; margin: 50px 150px 0px 100px; text-align: center; height: 1000px; }
+header{
+  margin: 0px 0px 15px 0px; background-color: #957bbe; height: 60px; padding: 5px;
+}
+main{
+  background-color: palevioletred; padding: 10px; margin: 50px 150px 0px 100px; text-align: center; height: 1000px; 
+}
+.Mainimg{
+  width: 300px;
+  height: 250px;
+  border: 1px solid black;
+  margin: 10px;
+}
 
 
 
